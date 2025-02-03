@@ -1,0 +1,1 @@
+Yılan oyunu optimize edildi.
